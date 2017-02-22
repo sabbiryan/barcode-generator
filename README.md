@@ -3,8 +3,10 @@ A simple barcode RnD Windows Form application
 
 Follow the single steps to run this application : <br/>
 1. Clone this repo using <code>git clone https://github.com/sabbiryan/barcode-generator.git</code> <br/>
-2. Open <code>Source\Barcode\Barcode.sln</code> with visual studio (visula studio 2015 suggested). <br/>
-3. Open <code>GenerateBarcode.cs</code> for visual design and click on <code>Generate Button</code> to view the code. <br/>
+2. Go to <code>Source\Required Fonts</code> and install the <code>IDAutomationHC39M.ttf</code> font on your local machine first. <br/>
+3. Open <code>Source\Barcode\Barcode.sln</code> with visual studio (visula studio 2015 suggested). <br/>
+4. Open <code>GenerateBarcode.cs</code> for visual design and click on <code>Generate Button</code> to view the code. <br/>
+5. Run the application uisng keyborad function F5 or Ctrl +  F5 or click on Start.
 
         using (Graphics graphics = Graphics.FromImage(bitmap))
         {
