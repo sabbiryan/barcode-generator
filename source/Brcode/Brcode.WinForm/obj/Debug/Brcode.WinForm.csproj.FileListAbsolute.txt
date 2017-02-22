@@ -1,0 +1,13 @@
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\bin\Debug\Brcode.WinForm.exe
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\bin\Debug\Brcode.WinForm.exe.config
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\bin\Debug\Zen.Barcode.Core.dll
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.csprojResolveAssemblyReference.cache
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.GenerteBrcode.resources
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.Properties.Resources.resources
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.csproj.GenerateResource.Cache
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.exe
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.pdb
+D:\EPB-Payslip\Source\RnD\Brcode\Brcode.WinForm\bin\Debug\Brcode.WinForm.pdb
+D:\Personal\Github\barcode-generator\source\Brcode\Brcode.WinForm\bin\Debug\Brcode.WinForm.exe.config
+D:\Personal\Github\barcode-generator\source\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.exe
+D:\Personal\Github\barcode-generator\source\Brcode\Brcode.WinForm\obj\Debug\Brcode.WinForm.pdb
