@@ -1,5 +1,0 @@
-D:\EPB-Payslip\Source\RnD\Brcode\Brcode\bin\Debug\Brcode.exe.config
-D:\EPB-Payslip\Source\RnD\Brcode\Brcode\bin\Debug\Brcode.exe
-D:\EPB-Payslip\Source\RnD\Brcode\Brcode\bin\Debug\Brcode.pdb
-D:\EPB-Payslip\Source\RnD\Brcode\Brcode\obj\Debug\Brcode.exe
-D:\EPB-Payslip\Source\RnD\Brcode\Brcode\obj\Debug\Brcode.pdb
